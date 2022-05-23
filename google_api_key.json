@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kanalservis-351019",
+  "private_key_id": "18f6f935dc222dce7c249e0df2fa30d017255b76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtErJwMDcFdv9s\n9ocbBP/qsoKMW5dHDBsy+1X/MTNMI4830txVGhvqdoDLOIb4imvhDnY4rhBvrrqA\nwm1Zl9twspcOD4rtQEc2rsFnwoylhnwBNL06sLgw4H4YqQRHRoWo4zC7HVQZyYJ4\nomzeYMhQC/DkHc+3Sz74Asw4RgS2w7drMfo039tUYXxItrBhquDYLE+GHMtFHNog\nIHaUUnOYLon/QxEvOPtGhojWNCDg0bw2z+DjLXOjLp/iZpTpjOfcx6S92YPKovuI\nx39UPaQzbZ7K7Aq2uKynvaz21YV19CWCFyNPy94OlXtv5BsyvEs3qpKePxkPZnT9\nWEXIH/FpAgMBAAECggEADvOpTjdgHXz/Co0OtXccW8yBqjoEaushE2myr3ny5k5B\nIm+5QLHhfQMxU70lreWZdccvz+w7t8ZGzvZdB4sutkD7e0e89wuhS1hUFZBxYaBp\naJpDicU4GGLgieVaHQU66VD9RgD94b9uodjYYmrGi2HItRBdQEbEIR1uwqLL5/UC\nrWoLwI9JEOe9oS1sEUIEd/UdiNcKf/qGhlzQzaP7nSThGBqAird1vstB2YF8AwY2\nlFPmNIhYSHAyTuUAvUsVdQ1KwKn4RvyDyEqPpANCmTg3SpF0CHrachaBIpXHQmIp\nHsWPNZqMfptExZ+43mqefTnJxOWAu5EpF8Ae4ToaTQKBgQDVRWRoN2Y8Br2xHOIu\nmgJRdtVu6xKSxwlSPAWOk+1TjigVlWXa8WDvfTMyrsXFxHQKUXoFHUCwDdxNJQQe\nPwSonwHChak/xyEm3QfpHP/W0SJcMgniaA0x3Tu0BZ7QVPgyoTu5xg3BmfRWytsv\n5zTS70kj9oHR5OoGDppx1EechQKBgQDPv49p7JuhToe/POtXU1ZTOMy4nUZRz/ja\neKVZZ42SBa9QNTTBE+rnF/1LvhYD0k3GN+w+kpGg+BuFnVi2p9PHo77oHF7uUhQu\ni74kmMDpVuhzuPbWzDdkRrqSiTLqnJih3b2JbiwGrVz/TSWnbmnkSZbAyuHc6s34\n/c+xjN34lQKBgDQGaHbvxLWx40Y4SIibsyMSPQCAwZgii4iO8cAVH9i5HdgeCKm/\nJillvj6H2eDjincV5xEmUKhhyTLca8PBFa7YkwJTvrS7K8AiPRLFqzdI7vvUjQq4\n3Tcjw7Onh1VE1QLsx/gKc0Kd/rfJZmyqFv25t3rZYFPGZrwxhcVsxkdNAoGBAJIV\nXb9aRcWT9xieuc5aJ6W1lx9qWHxHBfJ6S6smigJYRQLdpw7t9owx7kdIjyp4w3/S\n6yjE3+qVDKVUE4G9WcpUdnW5HXfv94kTcs1BLMXn+uUE923rhDfbFG7eUxNuslWA\nGzt8YTEAzxgnI4csuQFyTbOb9l7mLZgcweNT7vJRAoGBAJT0rnrKsA1I5oN66ezl\nEZC2K7VfAoVBp+CeHYaKrdUw6ktoPv7B19ZiBdWa2GS8hVro88xH0OhSRQAvV6jA\nn56UPBynxmsiwps/fJIhsNqVE6ORyGzLfwcRusw8cRJPkeR28jJHe7XS2jAVapFZ\nj6MdDT8lpGlA9g8K+JBPnniZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "kanalservis-test@kanalservis-351019.iam.gserviceaccount.com",
+  "client_id": "113774233720401327141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kanalservis-test%40kanalservis-351019.iam.gserviceaccount.com"
+}
